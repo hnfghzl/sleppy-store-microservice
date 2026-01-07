@@ -1,0 +1,3 @@
+@echo off
+echo Testing Auth Service...
+powershell -Command "Invoke-WebRequest -Uri http://localhost:3001/health -UseBasicParsing | Select-Object -ExpandProperty Content"

@@ -1,0 +1,702 @@
+Product Service running on port 3002
+Health check: http://localhost:3002/health
+Connecting to MySQL at localhost:3307...
+MySQL connected successfully!
+Product database initialized
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Create product error: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at Object.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\config\database.js:59:29)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\src\index.js:101:29
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\product-service\node_modules\express\lib\router\index.js:280:10) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5
+Executing query: SELECT * FROM products WHERE 1=1 ORDER BY created_at DESC LIMIT 10 OFFSET 0
+With params: []
+Products found: 5

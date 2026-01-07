@@ -1,0 +1,43 @@
+const mysql = require("mysql2/promise");
+
+const pool = mysql.createPool({
+  host: process.env.DB_HOST || "localhost",
+  port: process.env.DB_PORT || 3306,
+  database: process.env.DB_NAME || "user_db",
+  user: process.env.DB_USER || "root",
+  password: process.env.DB_PASSWORD || "",
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+});
+
+const initDatabase = async () => {
+  try {
+    await pool.query(`
+      CREATE TABLE IF NOT EXISTS users (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        email VARCHAR(255) UNIQUE NOT NULL,
+        full_name VARCHAR(255) NOT NULL,
+        phone VARCHAR(20),
+        address TEXT,
+        role VARCHAR(50) DEFAULT 'user',
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+      )
+    `);
+    console.log("User database initialized");
+  } catch (error) {
+    console.error("Database initialization error:", error);
+  }
+};
+
+const query = async (text, params) => {
+  const [rows] = await pool.execute(text, params);
+  return { rows };
+};
+
+module.exports = {
+  query,
+  initDatabase,
+  pool,
+};

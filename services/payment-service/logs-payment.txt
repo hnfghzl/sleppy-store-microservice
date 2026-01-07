@@ -1,0 +1,18 @@
+Payment Service running on port 3004
+Health check: http://localhost:3004/health
+Database initialization error: Error
+    at PromisePool.query (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\payment-service\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at Object.initDatabase (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\payment-service\src\config\database.js:16:16)
+    at Object.<anonymous> (d:\kuliah\Semester 7\Web service praktik\tugas_besar\services\payment-service\src\index.js:15:4)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'ECONNREFUSED',
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
